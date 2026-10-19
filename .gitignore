@@ -4,3 +4,6 @@ notes.log
 
 # Сборка
 build/
+
+# Секреты
+secrets.md
